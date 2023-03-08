@@ -17,7 +17,8 @@ The following Julia packages are required as well
 
 ```
 > Using Pkg
-> Pkg.add.(["JuMP", "MosekTools", "ArgParse", "Distributions", "LinearAlgebra", "Combinatorics", "MathOptInterface"])
+> Pkg.add.(["JuMP", "MosekTools", "ArgParse", "Distributions",
+            "LinearAlgebra", "Combinatorics", "MathOptInterface"])
 ```
 
 ## Reference
